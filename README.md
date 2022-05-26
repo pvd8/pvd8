@@ -5,7 +5,7 @@ Here is my overview:
 - 🔭 I’m currently studying B.Tech
 - 🌱 I’m currently learning Programming
 - 👯 I’m looking to collaborate on Product-based companies
-- 🤔 I’m looking for help with Job seeking
+- 🤔 I’m looking for help with learning new skills
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Telegram](https://t.me/ganesh_4)
 - 😄 Pronouns: He/His
