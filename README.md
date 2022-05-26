@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋! My name is Durga Ganesh
 
-<!--
-**pvd8/pvd8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is my overview:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently studying B.Tech
+- 🌱 I’m currently learning Programming
+- 👯 I’m looking to collaborate on Product-based companies
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Anything
+- 📫 How to reach me: https://t.me/ganesh_4
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I currently have a single repository with nothing
 -->
